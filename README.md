@@ -104,7 +104,6 @@ https://delicate-dawn-ac25646e6d.media.strapiapp.com/Strapi_Architecture_0f03d82
 |------------|-------------|
 | [**strapi/strapi**](https://github.com/strapi/strapi) | Core monorepo — the CMS itself |
 | [**strapi/parts**](https://github.com/strapi/parts) | Strapi Design System — React component library |
-| [**strapi/strapi-docker**](https://github.com/strapi/strapi-docker) | Official Docker images |
 | [**strapi/LaunchPad**](https://github.com/strapi/LaunchPad) | Demo app — Strapi + Next.js |
 | [**strapi/rfcs**](https://github.com/strapi/rfcs) | Request For Comments — help shape the future of Strapi |
 
