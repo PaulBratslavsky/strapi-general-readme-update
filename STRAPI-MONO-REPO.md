@@ -35,7 +35,7 @@ Strapi is an open-source, self-hosted headless CMS that lets developers build co
 - Granular [**Roles & Permissions**](https://docs.strapi.io/cms/features/users-permissions) out of the box
 - Built-in [**Media Library**](https://docs.strapi.io/cms/features/media-library), [**Internationalization (i18n)**](https://docs.strapi.io/cms/features/internationalization), and [**Draft & Publish**](https://docs.strapi.io/cms/features/draft-and-publish)
 - First-class **TypeScript** support with flexible database options (SQLite, PostgreSQL, MySQL, MariaDB)
-- Extensible [**plugin system**](https://docs.strapi.io/cms/plugins) and customizable admin dashboard
+- Extensible [**plugin system**](https://docs.strapi.io/cms/plugins-development/developing-plugins) and customizable admin dashboard
 
 > Explore all features at **[strapi.io/features](https://strapi.io/features)**
 
