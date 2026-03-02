@@ -2,7 +2,7 @@
 
 ### The leading open-source headless CMS — 100% JavaScript/TypeScript, fully customizable and developer-first.
 
-[Docs](https://docs.strapi.io) · [Strapi Cloud](https://strapi.io/cloud) · [Roadmap](https://feedback.strapi.io) · [Discord](https://discord.strapi.io) · [Forum](https://github.com/strapi/strapi/discussions)
+[Docs](https://docs.strapi.io) · [Strapi Cloud](https://strapi.io/cloud) · [Roadmap](https://feedback.strapi.io) · [Discord](https://discord.strapi.io) · [Discussions](https://github.com/strapi/strapi/discussions)
 
 [![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=flat&logo=github&colorB=7B2BFC)](https://github.com/strapi/strapi/stargazers)
 [![npm version](https://img.shields.io/npm/v/@strapi/strapi.svg?style=flat&colorB=7B2BFC)](https://www.npmjs.com/package/@strapi/strapi)
