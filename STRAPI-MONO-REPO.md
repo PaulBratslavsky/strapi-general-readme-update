@@ -111,27 +111,20 @@ See for yourself what's under the hood by getting access to a [hosted Strapi pro
 | [**strapi/design-system**](https://github.com/strapi/design-system) | Strapi Design System, React component library |
 | [**strapi/LaunchPad**](https://github.com/strapi/LaunchPad) | Demo app: Strapi + Next.js |
 
-## Contributing
+## Contributing & Community
 
-Strapi is community-built and open source. There are many ways to get involved:
+Strapi is community-built and open source. For help, feedback, or to get involved:
 
-- **[Discord](https://discord.strapi.io)**: Chat with the community and core team
-- **[Discussions](https://github.com/strapi/strapi/discussions)**: Ask questions, share projects, get feedback
-- **[Community Content](https://github.com/strapi/community-content)**: Showcase, tutorials, starters, and templates
+- **[Discord](https://discord.strapi.io)**: Live discussion with the community and Strapi team
+- **[GitHub Discussions](https://github.com/strapi/strapi/discussions)**: Ask questions, share projects, get feedback
+- **[GitHub](https://github.com/strapi/strapi)**: Bug reports and contributions
 - **[Contributing Guide](https://contributor.strapi.io/)**: How to contribute code, docs, and translations
+- **[Community Content](https://github.com/strapi/community-content)**: Showcase, tutorials, starters, and templates
+- **[Feedback](https://feedback.strapi.io)**: Roadmap and feature requests
+- **[Twitter](https://twitter.com/strapijs)**: Get the news fast
+- **[YouTube Channel](https://www.youtube.com/strapi)**: Learn from video tutorials
 
-New to open source? Check out [How to Contribute to Open Source](https://opensource.guide/).
-
-## Community support
-
-For general help using Strapi, please refer to [the official Strapi documentation](https://docs.strapi.io). For additional help, you can use one of these channels to ask a question:
-
-- [Discord](https://discord.strapi.io) (For live discussion with the Community and Strapi team)
-- [GitHub](https://github.com/strapi/strapi) (Bug reports, Contributions)
-- [GitHub Discussions](https://github.com/strapi/strapi/discussions) (Questions and Discussions)
-- [Feedback section](https://feedback.strapi.io) (Roadmap, Feature requests)
-- [Twitter](https://twitter.com/strapijs) (Get the news fast)
-- [YouTube Channel](https://www.youtube.com/strapi) (Learn from Video Tutorials)
+For general help, refer to the [official Strapi documentation](https://docs.strapi.io). New to open source? Check out [How to Contribute to Open Source](https://opensource.guide/).
 
 ## Migration
 
