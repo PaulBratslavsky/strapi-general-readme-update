@@ -39,6 +39,20 @@ yarn create strapi my-project
 
 > 📖 Full installation options (including TypeScript, `--quickstart`, etc.) → **[Installation — CLI docs](https://docs.strapi.io/cms/installation/cli#creating-a-strapi-project)**
 
+## ☁️ Deploy to Strapi Cloud
+
+The fastest way to go from local to production. Strapi Cloud is the official managed hosting platform — zero DevOps, built-in database, media library and CDN.
+
+**One-click deploy from your dashboard:**
+
+> [**Deploy now →**](https://cloud.strapi.io)
+
+**Or use the Strapi Deploy CLI:**
+
+```bash
+npx strapi deploy
+```
+
 ---
 
 ## 🐳 Docker
@@ -54,20 +68,6 @@ This generates a `Dockerfile` and `docker-compose.yml` tailored to your project.
 > 📖 Dockerfiles, Docker Compose examples, production builds → **[Docker installation docs](https://docs.strapi.io/cms/installation/docker)**
 
 ---
-
-## ☁️ Deploy to Strapi Cloud
-
-The fastest way to go from local to production. Strapi Cloud is the official managed hosting platform — zero DevOps, built-in database, media library and CDN.
-
-**One-click deploy from your dashboard:**
-
-> [**Deploy now →**](https://cloud.strapi.io)
-
-**Or use the Strapi Deploy CLI:**
-
-```bash
-npx strapi deploy
-```
 
 > 🚀 Want a head start? Try **[LaunchPad](https://github.com/strapi/LaunchPad)** — the official Strapi 5 + Next.js 16 demo app.
 >
