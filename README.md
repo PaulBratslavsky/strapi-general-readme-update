@@ -4,7 +4,7 @@
 
 [Docs](https://docs.strapi.io) · [Strapi Cloud](https://strapi.io/cloud) · [Roadmap](https://feedback.strapi.io) · [Discord](https://discord.strapi.io) · [Discussions](https://github.com/strapi/strapi/discussions)
 
-[![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=flat&logo=github&colorB=7B2BFC)](https://github.com/strapi/strapi/stargazers)
+[![GitHub stars](https://badgen.net/github/stars/strapi/strapi?color=7B2BFC&icon=github)](https://github.com/strapi/strapi/stargazers)
 [![npm version](https://img.shields.io/npm/v/@strapi/strapi.svg?style=flat&colorB=7B2BFC)](https://www.npmjs.com/package/@strapi/strapi)
 [![npm downloads](https://img.shields.io/npm/dm/@strapi/strapi.svg?style=flat&colorB=7B2BFC)](https://www.npmjs.com/package/@strapi/strapi)
 [![License](https://img.shields.io/badge/license-SEE%20LICENSE-7B2BFC.svg)](https://github.com/strapi/strapi/blob/main/LICENSE)
