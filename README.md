@@ -69,7 +69,7 @@ The fastest way to go from local to production. Strapi Cloud is the official man
 npx strapi deploy
 ```
 
-> 🚀 Want a head start? Try **[LaunchPad](https://github.com/strapi/LaunchPad)** — the official Strapi + Next.js demo app, ready to deploy in one click.
+> 🚀 Want a head start? Try **[LaunchPad](https://github.com/strapi/LaunchPad)** — the official Strapi 5 + Next.js 16 demo app.
 >
 > 📖 Deployment guides (AWS, Azure, DigitalOcean, self-hosted) → **[Deployment docs](https://docs.strapi.io/cms/deployment)**
 >
