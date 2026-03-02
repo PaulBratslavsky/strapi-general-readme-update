@@ -39,6 +39,8 @@ Strapi is an open-source, self-hosted headless CMS that lets developers build co
 
 > Explore all features at **[strapi.io/features](https://strapi.io/features)**
 
+> **Strapi AI** — Automate content modeling, media alt text, and translations with Strapi's built-in AI layer. [Learn more](https://strapi.io/ai)
+
 ## Getting Started
 
 <a href="https://docs.strapi.io/developer-docs/latest/getting-started/quick-start.html" target="_blank">Read the Getting Started tutorial</a> or follow the steps below:
@@ -96,12 +98,6 @@ The fastest way to go from local to production. Strapi Cloud is the official man
 The official demo template combining Strapi with Next.js to get you started quickly.
 
 > [**LaunchPad template**](https://github.com/strapi/LaunchPad)
-
-## Strapi AI
-
-Strapi AI is the built-in intelligence layer that automates repetitive tasks across the CMS, from content modeling to media metadata to translations. Generate schemas from natural language, Figma, or frontend code. Auto-generate alt text and captions on upload. Auto-translate content across all your locales on save. Available on the Growth plan.
-
-> Full details on Strapi AI at **[strapi.io/ai](https://strapi.io/ai)**
 
 ## Repositories
 
