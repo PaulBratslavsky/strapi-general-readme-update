@@ -39,20 +39,6 @@ yarn create strapi my-project
 
 > 📖 Full installation options (including TypeScript, `--quickstart`, etc.) → **[Installation — CLI docs](https://docs.strapi.io/cms/installation/cli#creating-a-strapi-project)**
 
-## ☁️ Deploy to Strapi Cloud
-
-The fastest way to go from local to production. Strapi Cloud is the official managed hosting platform — zero DevOps, built-in database, media library and CDN.
-
-**One-click deploy from your dashboard:**
-
-> [**Deploy now →**](https://cloud.strapi.io)
-
-**Or use the Strapi Deploy CLI:**
-
-```bash
-npx strapi deploy
-```
-
 ---
 
 ## 🐳 Docker
@@ -69,7 +55,21 @@ This generates a `Dockerfile` and `docker-compose.yml` tailored to your project.
 
 ---
 
-> 🚀 Want a head start? Try **[LaunchPad](https://github.com/strapi/LaunchPad)** — the official Strapi 5 + Next.js 16 demo app.
+## ☁️ Deploy to Strapi Cloud
+
+The fastest way to go from local to production. Strapi Cloud is the official managed hosting platform — zero DevOps, built-in database, media library and CDN.
+
+**One-click deploy from your dashboard:**
+
+> [**Deploy now →**](https://cloud.strapi.io)
+
+**Or use the Strapi Deploy CLI:**
+
+```bash
+npx strapi deploy
+```
+
+> 🚀 Want a head start? Try **[LaunchPad](https://github.com/strapi/LaunchPad)** — the official Strapi + Next.js demo app, ready to deploy in one click.
 >
 > 📖 Deployment guides (AWS, Azure, DigitalOcean, self-hosted) → **[Deployment docs](https://docs.strapi.io/cms/deployment)**
 >
@@ -79,32 +79,17 @@ This generates a `Dockerfile` and `docker-compose.yml` tailored to your project.
 
 ## ✨ Features
 
-| Feature | Description | Docs |
-|---------|-------------|------|
-| **Content-Type Builder** | Build your data structure visually — no code required | [Docs →](https://docs.strapi.io/cms/features/content-type-builder) |
-| **Content Manager** | Create, edit, draft and publish any content | [Docs →](https://docs.strapi.io/cms/features/content-manager) |
-| **REST & GraphQL APIs** | Auto-generated, fully customizable APIs | [REST →](https://docs.strapi.io/cms/api/rest) · [GraphQL →](https://docs.strapi.io/cms/api/graphql) |
-| **Roles & Permissions** | Fine-grained access control for admins and end-users | [Docs →](https://docs.strapi.io/cms/features/users-permissions) |
-| **Media Library** | Upload, organize and transform images, videos and files | [Docs →](https://docs.strapi.io/cms/features/media-library) |
-| **Internationalization (i18n)** | Manage content in multiple locales | [Docs →](https://docs.strapi.io/cms/features/internationalization) |
-| **Draft & Publish** | Stage content before going live | [Docs →](https://docs.strapi.io/cms/features/draft-and-publish) |
-| **Custom Plugins** | Extend Strapi with your own plugins or install from the marketplace | [Docs →](https://docs.strapi.io/cms/plugins) |
-| **TypeScript Support** | First-class TypeScript support out of the box | [Docs →](https://docs.strapi.io/cms/typescript) |
-| **Database Flexibility** | SQLite, PostgreSQL, MySQL, MariaDB | [Docs →](https://docs.strapi.io/cms/configurations/database) |
-| **Live Preview** | See content changes in real time as you edit, right in the admin panel | [Docs →](https://docs.strapi.io/cms/features/preview) |
-| **Customizable Dashboard** | Drag-and-drop homepage widgets tailored to your workflow | [Docs →](https://docs.strapi.io/cms/features/homepage) |
+Strapi comes packed with everything you need to build, manage, and deliver content — Content-Type Builder, Content Manager, REST & GraphQL APIs, Roles & Permissions, Media Library, i18n, Draft & Publish, Live Preview, custom plugins, TypeScript support, and more.
+
+> 📖 Full feature details and latest updates → **[What's new in Strapi](https://docs.strapi.io/whats-new)**
 
 ---
 
 ## 🤖 Strapi AI
 
-Strapi AI is the built-in intelligence layer that automates repetitive tasks across the CMS — from content modeling to translations. Available on the Growth plan.
+Strapi AI is the built-in intelligence layer that automates repetitive tasks across the CMS — from content modeling to media metadata to translations. Generate schemas from natural language, Figma, or frontend code. Auto-generate alt text and captions on upload. Auto-translate content across all your locales on save. Available on the Growth plan.
 
-- **AI Content-Type Builder** — Describe your project in plain language, upload a Figma file, or point to an existing frontend app, and Strapi AI generates Collection Types, Single Types, Components, and relationships for you. Hours of manual schema work reduced to minutes. [Learn more →](https://strapi.io/blog/introducing-strapi-ai)
-- **AI Media Library** — Automatically generates alt text and captions on image upload, in bulk. Fully editable, enabled by default. Better accessibility and SEO with zero extra effort. [Learn more →](https://strapi.io/blog/strapi-ai-is-now-generally-available)
-- **AI Translations** — Edit and save in your default locale, and Strapi AI auto-translates all other locales — including dynamic zones and blocks. Launch new markets in hours, not weeks. [Learn more →](https://strapi.io/blog/shipping-faster-with-strapi-ai-translations-and-more-homepage-customizations)
-
-> 📖 Full details on Strapi AI → **[Strapi AI docs](https://docs.strapi.io/cms/features/strapi-ai)**
+> 📖 Full details on Strapi AI → **[strapi.io/ai](https://strapi.io/ai)**
 
 ---
 
@@ -112,11 +97,6 @@ Strapi AI is the built-in intelligence layer that automates repetitive tasks acr
 Consider including a cleaner version of the architecture overview:
 https://delicate-dawn-ac25646e6d.media.strapiapp.com/Strapi_Architecture_0f03d820f5.png
 -->
-
-> [!WARNING]
-> **Open Discussion — Architecture Diagram**
-> Should we include an architecture overview diagram here? A cleaner version of [this diagram](https://delicate-dawn-ac25646e6d.media.strapiapp.com/Strapi_Architecture_0f03d820f5.png) could help new developers understand how Strapi fits together.
-> *Share your thoughts in the PR review.*
 
 ## 🏗️ Repositories
 
@@ -132,11 +112,6 @@ https://delicate-dawn-ac25646e6d.media.strapiapp.com/Strapi_Architecture_0f03d82
 Consider adding an /examples directory similar to:
 https://github.com/payloadcms/payload/tree/main/examples
 -->
-
-> [!WARNING]
-> **Open Discussion — Examples Repository**
-> Should we add an `/examples` directory similar to [Payload's examples](https://github.com/payloadcms/payload/tree/main/examples)? This could provide ready-to-run reference projects for common use cases.
-> *Share your thoughts in the PR review.*
 
 [Browse all repositories →](https://github.com/orgs/strapi/repositories)
 
@@ -158,38 +133,21 @@ New to open source? Check out [How to Contribute to Open Source](https://opensou
 Add a CTA for the Strapi Community Organization and/or Partner Program here?
 -->
 
-> [!WARNING]
-> **Open Discussion — Community Org & Partner Program**
-> Should we add a CTA for the Strapi Community Organization and/or Partner Program in this section?
-> *Share your thoughts in the PR review.*
-
 <!-- TODO: [TO DISCUSS] "Made with Strapi" badge
 Offer a badge option for projects built with Strapi, e.g.:
 [![Made with Strapi](https://img.shields.io/badge/Made%20with-Strapi-7B2BFC.svg)](https://strapi.io)
 -->
 
-> [!WARNING]
-> **Open Discussion — "Made with Strapi" Badge**
-> Should we offer a badge for projects built with Strapi? e.g.: [![Made with Strapi](https://img.shields.io/badge/Made%20with-Strapi-7B2BFC.svg)](https://strapi.io)
-> *Share your thoughts in the PR review.*
+<!-- TODO: [TO DISCUSS] Internationalized README
+Provide translated versions of this README, similar to:
+https://github.com/supabase/supabase/blob/master/i18n/README.fr.md
+-->
 
 ---
 
 ## 🔐 Security
 
-<!-- TODO: [TO DISCUSS] SECURITY.md & reporting process
-Consider adding:
-- Link to SECURITY.md with responsible disclosure policy
-- Security contact email (e.g., security@strapi.io)
-- Instructions for reporting vulnerabilities
--->
-
-> [!WARNING]
-> **Open Discussion — Security Reporting Process**
-> Should we expand this section with a dedicated `SECURITY.md`, a security contact email (e.g., `security@strapi.io`), and detailed vulnerability reporting instructions?
-> *Share your thoughts in the PR review.*
-
-If you discover a security issue, please report it responsibly. See [SECURITY.md](./SECURITY.md) for our disclosure policy.
+If you discover a security issue, please report it responsibly. See our [Security Policy](https://github.com/strapi/strapi/security/policy) for our disclosure process and contact info.
 
 ---
 
@@ -214,11 +172,6 @@ If Strapi is helping you build something great, show some love:
 <!-- TODO: [TO DISCUSS] GitHub Sponsors
 - **[❤️ Sponsor the project](https://github.com/sponsors/strapi)** — help sustain the open-source mission
 -->
-
-> [!WARNING]
-> **Open Discussion — GitHub Sponsors**
-> Should we add a GitHub Sponsors link here? e.g.: **[❤️ Sponsor the project](https://github.com/sponsors/strapi)** — help sustain the open-source mission.
-> *Share your thoughts in the PR review.*
 
 ---
 
