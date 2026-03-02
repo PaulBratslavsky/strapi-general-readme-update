@@ -147,7 +147,7 @@ https://github.com/supabase/supabase/blob/master/i18n/README.fr.md
 
 ## 🔐 Security
 
-If you discover a security issue, please report it responsibly. See our [Security Policy](https://github.com/strapi/strapi/security/policy) for our disclosure process and contact info.
+If you discover a security issue, please report it responsibly. See our [Security Policy](https://github.com/strapi/strapi/blob/develop/SECURITY.md) for our disclosure process and contact info.
 
 ---
 
