@@ -2,6 +2,87 @@
 
 ### 🚀 The leading open-source headless CMS — 100% JavaScript/TypeScript, fully customizable and developer-first.
 
+[Docs](https://docs.strapi.io) · [Strapi Cloud](https://strapi.io/cloud) · [Roadmap](https://feedback.strapi.io) · [Discord](https://discord.strapi.io) · [Discussions](https://github.com/strapi/strapi/discussions)
+
+[![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=flat&logo=github&colorB=7B2BFC)](https://github.com/strapi/strapi/stargazers)
+[![npm version](https://img.shields.io/npm/v/@strapi/strapi.svg?style=flat&colorB=7B2BFC)](https://www.npmjs.com/package/@strapi/strapi)
+[![npm downloads](https://img.shields.io/npm/dm/@strapi/strapi.svg?style=flat&colorB=7B2BFC)](https://www.npmjs.com/package/@strapi/strapi)
+[![License](https://img.shields.io/badge/license-SEE%20LICENSE-7B2BFC.svg)](https://github.com/strapi/strapi/blob/main/LICENSE)
+[![Discord](https://img.shields.io/discord/811989166782021633?label=Discord&logo=discord&colorB=7B2BFC&logoColor=white)](https://discord.strapi.io)
+
+---
+
+Strapi's story started on GitHub on October 1, 2015. Since that first commit, 36,000+ others followed, more than 9,400 pull requests have been merged, and the project has earned 70K+ GitHub stars 🤯 The majority of [milestones associated pull requests](https://github.com/strapi/strapi/milestones) come from the Strapi community and we can't be more proud of it 🙏
+
+We strive every day to create the best Open-Source and Self-Hosted Headless CMS to allow Developers as well as Content Creators to Unleash Content 💪
+
+---
+
+## ⚡ Quick Start
+
+Get a Strapi project running in seconds:
+
+**npx**
+```bash
+npx create-strapi@latest my-project
+```
+
+**pnpm**
+```bash
+pnpm create strapi@latest my-project
+```
+
+**yarn**
+```bash
+yarn create strapi my-project
+```
+
+> 📖 Full installation options (including TypeScript, `--quickstart`, etc.) → **[Installation — CLI docs](https://docs.strapi.io/cms/installation/cli#creating-a-strapi-project)**
+
+---
+
+## 🐳 Docker
+
+Strapi doesn't ship official Docker images — you build your own from your project. The fastest way to get started is with the community CLI tool:
+
+```bash
+npx @strapi-community/dockerize@latest
+```
+
+This generates a `Dockerfile` and `docker-compose.yml` tailored to your project. Or you can write your own Dockerfile using the templates in the docs. See the [strapi-tool-dockerize](https://github.com/strapi-community/strapi-tool-dockerize) repo for more details.
+
+> 📖 Dockerfiles, Docker Compose examples, production builds → **[Docker installation docs](https://docs.strapi.io/cms/installation/docker)**
+
+---
+
+## ☁️ Deploy to Strapi Cloud
+
+The fastest way to go from local to production. Strapi Cloud is the official managed hosting platform — zero DevOps, built-in database, media library and CDN.
+
+**One-click deploy from your dashboard:**
+
+> [**Deploy now →**](https://cloud.strapi.io)
+
+**Or use the Strapi Deploy CLI:**
+
+```bash
+npx strapi deploy
+```
+
+> 🚀 Want a head start? Try **[LaunchPad](https://github.com/strapi/LaunchPad)** — the official Strapi + Next.js demo app, ready to deploy in one click.
+>
+> 📖 Deployment guides (AWS, Azure, DigitalOcean, self-hosted) → **[Deployment docs](https://docs.strapi.io/cms/deployment)**
+>
+> Hardware & software requirements → **[Requirements](https://docs.strapi.io/cms/deployment#hardware-and-software-requirements)**
+
+
+Readme · MD
+Copy
+
+# Strapi
+
+### 🚀 The leading open-source headless CMS — 100% JavaScript/TypeScript, fully customizable and developer-first.
+
 [Docs](https://docs.strapi.io) · [Strapi Cloud](https://strapi.io/cloud) · [Roadmap](https://feedback.strapi.io) · [Discord](https://discord.strapi.io) · [Forum](https://github.com/strapi/strapi/discussions)
 
 [![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=flat&logo=github&colorB=7B2BFC)](https://github.com/strapi/strapi/stargazers)
@@ -79,20 +160,9 @@ npx strapi deploy
 
 ## ✨ Features
 
-| Feature | Description |
-|---------|-------------|
-| **Content-Type Builder** | Build your data structure visually — no code required |
-| **Content Manager** | Create, edit, draft and publish any content |
-| **REST & GraphQL APIs** | Auto-generated, fully customizable APIs |
-| **Roles & Permissions** | Fine-grained access control for admins and end-users |
-| **Media Library** | Upload, organize and transform images, videos and files |
-| **Internationalization (i18n)** | Manage content in multiple locales |
-| **Draft & Publish** | Stage content before going live |
-| **Custom Plugins** | Extend Strapi with your own plugins or install from the marketplace |
-| **TypeScript Support** | First-class TypeScript support out of the box |
-| **Database Flexibility** | SQLite, PostgreSQL, MySQL, MariaDB |
-| **Live Preview** | See content changes in real time as you edit, right in the admin panel |
-| **Customizable Dashboard** | Drag-and-drop homepage widgets tailored to your workflow |
+Strapi gives you everything you need to build, manage, and deliver content — a visual Content-Type Builder, a powerful Content Manager, auto-generated REST & GraphQL APIs, granular Roles & Permissions, a Media Library, Internationalization (i18n), Draft & Publish, Live Preview, a customizable dashboard, first-class TypeScript support, flexible database options (SQLite, PostgreSQL, MySQL, MariaDB), and an extensible plugin system.
+
+> 📖 Explore all features → **[strapi.io/features](https://strapi.io/features)**
 
 ---
 
@@ -109,9 +179,8 @@ Strapi AI is the built-in intelligence layer that automates repetitive tasks acr
 | Repository | Description |
 |------------|-------------|
 | [**strapi/strapi**](https://github.com/strapi/strapi) | Core monorepo — the CMS itself |
-| [**strapi/parts**](https://github.com/strapi/parts) | Strapi Design System — React component library |
+| [**strapi/design-system**](https://github.com/strapi/design-system) | Strapi Design System — React component library |
 | [**strapi/LaunchPad**](https://github.com/strapi/LaunchPad) | Demo app — Strapi + Next.js |
-| [**strapi/rfcs**](https://github.com/strapi/rfcs) | Request For Comments — help shape the future of Strapi |
 
 ---
 
@@ -120,7 +189,7 @@ Strapi AI is the built-in intelligence layer that automates repetitive tasks acr
 Strapi is built in the open by a diverse global community. There are many ways to get involved:
 
 - **[Discord](https://discord.strapi.io)** — Chat with the community and core team
-- **[Forum](https://github.com/strapi/strapi/discussions)** — Ask questions, share projects, get feedback
+- **[Discussions](https://github.com/strapi/strapi/discussions)** — Ask questions, share projects, get feedback.
 - **[Community Content](https://github.com/strapi/community-content)** — Showcase, tutorials, starters, and templates
 - **[Contributing Guide](https://contributor.strapi.io/)** — How to contribute code, docs, and translations
 
@@ -146,13 +215,13 @@ https://github.com/supabase/supabase/blob/master/i18n/README.fr.md
 
 If you discover a security issue, please report it responsibly. See our [Security Policy](https://github.com/strapi/strapi/blob/develop/SECURITY.md) for our disclosure process and contact info.
 
+
 ---
 
-## 😃 We're Hiring
+## 💜 About Strapi
 
 Strapi is a limitless product built in the open by a diverse and vibrant team from around the world.
 
-- **[Careers](https://strapi.io/careers)** — Open positions
 - **[Company Handbook](https://handbook.strapi.io)** — Our values, how we work, and more
 - **[About Us](https://strapi.io/about-us)** — The Story of Strapi
 
