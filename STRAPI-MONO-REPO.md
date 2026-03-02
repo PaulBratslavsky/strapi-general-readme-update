@@ -99,6 +99,10 @@ The official demo template combining Strapi with Next.js to get you started quic
 
 > [**LaunchPad template**](https://github.com/strapi/LaunchPad)
 
+### Try live demo
+
+See for yourself what's under the hood by getting access to a [hosted Strapi project](https://strapi.io/demo) with sample data — [try it live](https://strapi.io/demo) or [pull locally](https://github.com/strapi/LaunchPad).
+
 ## Repositories
 
 | Repository | Description |
@@ -144,10 +148,6 @@ See our dedicated [repository](https://github.com/strapi/documentation) for the 
 - [Developer docs](https://docs.strapi.io/developer-docs/latest/getting-started/introduction.html)
 - [User guide](https://docs.strapi.io/user-docs/latest/getting-started/introduction.html)
 - [Cloud guide](https://docs.strapi.io/cloud/intro)
-
-## Try live demo
-
-See for yourself what's under the hood by getting access to a [hosted Strapi project](https://strapi.io/demo) with sample data.
 
 ## Security
 
