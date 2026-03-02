@@ -74,9 +74,15 @@ This generates a `Dockerfile` and `docker-compose.yml` tailored to your project.
 
 The fastest way to go from local to production. Strapi Cloud is the official managed hosting platform with zero DevOps, a built-in database, media library, and CDN.
 
-**Deploy with the [LaunchPad template](https://github.com/strapi/LaunchPad) (Strapi + Next.js):**
-
 > [**Deploy now**](https://cloud.strapi.io)
+
+## Check out the LaunchPad
+
+The official demo template combining Strapi with Next.js to get you started quickly.
+
+> [**LaunchPad template**](https://github.com/strapi/LaunchPad)
+
+## Deployment and Requirements
 
 > Deployment guides (AWS, Azure, DigitalOcean, self-hosted) at **[Deployment docs](https://docs.strapi.io/cms/deployment)**
 >
