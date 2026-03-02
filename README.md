@@ -2,7 +2,7 @@
 
 ### 🚀 The leading open-source headless CMS — 100% JavaScript/TypeScript, fully customizable and developer-first.
 
-[Docs](https://docs.strapi.io) · [Strapi Cloud](https://strapi.io/cloud) · [Roadmap](https://feedback.strapi.io) · [Discord](https://discord.strapi.io) · [Forum](https://forum.strapi.io)
+[Docs](https://docs.strapi.io) · [Strapi Cloud](https://strapi.io/cloud) · [Roadmap](https://feedback.strapi.io) · [Discord](https://discord.strapi.io) · [Forum](https://github.com/strapi/strapi/discussions)
 
 [![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=flat&logo=github&colorB=7B2BFC)](https://github.com/strapi/strapi/stargazers)
 [![npm version](https://img.shields.io/npm/v/@strapi/strapi.svg?style=flat&colorB=7B2BFC)](https://www.npmjs.com/package/@strapi/strapi)
@@ -94,8 +94,6 @@ npx strapi deploy
 | **Live Preview** | See content changes in real time as you edit, right in the admin panel |
 | **Customizable Dashboard** | Drag-and-drop homepage widgets tailored to your workflow |
 
-> 📖 Full feature details and latest updates → **[What's new in Strapi](https://docs.strapi.io/whats-new)**
-
 ---
 
 ## 🤖 Strapi AI
@@ -115,8 +113,6 @@ Strapi AI is the built-in intelligence layer that automates repetitive tasks acr
 | [**strapi/LaunchPad**](https://github.com/strapi/LaunchPad) | Demo app — Strapi + Next.js |
 | [**strapi/rfcs**](https://github.com/strapi/rfcs) | Request For Comments — help shape the future of Strapi |
 
-[Browse all repositories →](https://github.com/orgs/strapi/repositories)
-
 ---
 
 ## 🤝 Community & Contributing
@@ -124,7 +120,7 @@ Strapi AI is the built-in intelligence layer that automates repetitive tasks acr
 Strapi is built in the open by a diverse global community. There are many ways to get involved:
 
 - **[Discord](https://discord.strapi.io)** — Chat with the community and core team
-- **[Forum](https://forum.strapi.io/)** — Ask questions, share projects, get feedback
+- **[Forum](https://github.com/strapi/strapi/discussions)** — Ask questions, share projects, get feedback
 - **[Community Content](https://github.com/strapi/community-content)** — Showcase, tutorials, starters, and templates
 - **[Awesome Strapi](https://github.com/strapi/awesome-strapi)** — Curated list of community resources
 - **[Contributing Guide](https://contributor.strapi.io/)** — How to contribute code, docs, and translations
@@ -149,7 +145,7 @@ https://github.com/supabase/supabase/blob/master/i18n/README.fr.md
 
 ## 🔐 Security
 
-If you discover a security issue, please report it responsibly. See our [Security Policy](https://github.com/strapi/strapi/security/policy) for our disclosure process and contact info.
+If you discover a security issue, please report it responsibly. See our [Security Policy](https://github.com/strapi/strapi/blob/develop/SECURITY.md) for our disclosure process and contact info.
 
 ---
 
