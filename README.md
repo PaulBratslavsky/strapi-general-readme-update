@@ -79,7 +79,20 @@ npx strapi deploy
 
 ## ✨ Features
 
-Strapi comes packed with everything you need to build, manage, and deliver content — Content-Type Builder, Content Manager, REST & GraphQL APIs, Roles & Permissions, Media Library, i18n, Draft & Publish, Live Preview, custom plugins, TypeScript support, and more.
+| Feature | Description |
+|---------|-------------|
+| **Content-Type Builder** | Build your data structure visually — no code required |
+| **Content Manager** | Create, edit, draft and publish any content |
+| **REST & GraphQL APIs** | Auto-generated, fully customizable APIs |
+| **Roles & Permissions** | Fine-grained access control for admins and end-users |
+| **Media Library** | Upload, organize and transform images, videos and files |
+| **Internationalization (i18n)** | Manage content in multiple locales |
+| **Draft & Publish** | Stage content before going live |
+| **Custom Plugins** | Extend Strapi with your own plugins or install from the marketplace |
+| **TypeScript Support** | First-class TypeScript support out of the box |
+| **Database Flexibility** | SQLite, PostgreSQL, MySQL, MariaDB |
+| **Live Preview** | See content changes in real time as you edit, right in the admin panel |
+| **Customizable Dashboard** | Drag-and-drop homepage widgets tailored to your workflow |
 
 > 📖 Full feature details and latest updates → **[What's new in Strapi](https://docs.strapi.io/whats-new)**
 
@@ -93,11 +106,6 @@ Strapi AI is the built-in intelligence layer that automates repetitive tasks acr
 
 ---
 
-<!-- TODO: [TO DISCUSS] Architecture diagram
-Consider including a cleaner version of the architecture overview:
-https://delicate-dawn-ac25646e6d.media.strapiapp.com/Strapi_Architecture_0f03d820f5.png
--->
-
 ## 🏗️ Repositories
 
 | Repository | Description |
@@ -106,11 +114,6 @@ https://delicate-dawn-ac25646e6d.media.strapiapp.com/Strapi_Architecture_0f03d82
 | [**strapi/parts**](https://github.com/strapi/parts) | Strapi Design System — React component library |
 | [**strapi/LaunchPad**](https://github.com/strapi/LaunchPad) | Demo app — Strapi + Next.js |
 | [**strapi/rfcs**](https://github.com/strapi/rfcs) | Request For Comments — help shape the future of Strapi |
-
-<!-- TODO: [TO DISCUSS] Examples repository
-Consider adding an /examples directory similar to:
-https://github.com/payloadcms/payload/tree/main/examples
--->
 
 [Browse all repositories →](https://github.com/orgs/strapi/repositories)
 
@@ -146,7 +149,7 @@ https://github.com/supabase/supabase/blob/master/i18n/README.fr.md
 
 ## 🔐 Security
 
-If you discover a security issue, please report it responsibly. See our [Security Policy](https://github.com/strapi/strapi/blob/develop/SECURITY.md) for our disclosure process and contact info.
+If you discover a security issue, please report it responsibly. See our [Security Policy](https://github.com/strapi/strapi/security/policy) for our disclosure process and contact info.
 
 ---
 
