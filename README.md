@@ -113,6 +113,11 @@ Consider including a cleaner version of the architecture overview:
 https://delicate-dawn-ac25646e6d.media.strapiapp.com/Strapi_Architecture_0f03d820f5.png
 -->
 
+> [!WARNING]
+> **Open Discussion — Architecture Diagram**
+> Should we include an architecture overview diagram here? A cleaner version of [this diagram](https://delicate-dawn-ac25646e6d.media.strapiapp.com/Strapi_Architecture_0f03d820f5.png) could help new developers understand how Strapi fits together.
+> *Share your thoughts in the PR review.*
+
 ## 🏗️ Repositories
 
 | Repository | Description |
@@ -127,6 +132,11 @@ https://delicate-dawn-ac25646e6d.media.strapiapp.com/Strapi_Architecture_0f03d82
 Consider adding an /examples directory similar to:
 https://github.com/payloadcms/payload/tree/main/examples
 -->
+
+> [!WARNING]
+> **Open Discussion — Examples Repository**
+> Should we add an `/examples` directory similar to [Payload's examples](https://github.com/payloadcms/payload/tree/main/examples)? This could provide ready-to-run reference projects for common use cases.
+> *Share your thoughts in the PR review.*
 
 [Browse all repositories →](https://github.com/orgs/strapi/repositories)
 
@@ -148,10 +158,20 @@ New to open source? Check out [How to Contribute to Open Source](https://opensou
 Add a CTA for the Strapi Community Organization and/or Partner Program here?
 -->
 
+> [!WARNING]
+> **Open Discussion — Community Org & Partner Program**
+> Should we add a CTA for the Strapi Community Organization and/or Partner Program in this section?
+> *Share your thoughts in the PR review.*
+
 <!-- TODO: [TO DISCUSS] "Made with Strapi" badge
 Offer a badge option for projects built with Strapi, e.g.:
 [![Made with Strapi](https://img.shields.io/badge/Made%20with-Strapi-7B2BFC.svg)](https://strapi.io)
 -->
+
+> [!WARNING]
+> **Open Discussion — "Made with Strapi" Badge**
+> Should we offer a badge for projects built with Strapi? e.g.: [![Made with Strapi](https://img.shields.io/badge/Made%20with-Strapi-7B2BFC.svg)](https://strapi.io)
+> *Share your thoughts in the PR review.*
 
 ---
 
@@ -163,6 +183,11 @@ Consider adding:
 - Security contact email (e.g., security@strapi.io)
 - Instructions for reporting vulnerabilities
 -->
+
+> [!WARNING]
+> **Open Discussion — Security Reporting Process**
+> Should we expand this section with a dedicated `SECURITY.md`, a security contact email (e.g., `security@strapi.io`), and detailed vulnerability reporting instructions?
+> *Share your thoughts in the PR review.*
 
 If you discover a security issue, please report it responsibly. See [SECURITY.md](./SECURITY.md) for our disclosure policy.
 
@@ -189,6 +214,11 @@ If Strapi is helping you build something great, show some love:
 <!-- TODO: [TO DISCUSS] GitHub Sponsors
 - **[❤️ Sponsor the project](https://github.com/sponsors/strapi)** — help sustain the open-source mission
 -->
+
+> [!WARNING]
+> **Open Discussion — GitHub Sponsors**
+> Should we add a GitHub Sponsors link here? e.g.: **[❤️ Sponsor the project](https://github.com/sponsors/strapi)** — help sustain the open-source mission.
+> *Share your thoughts in the PR review.*
 
 ---
 
