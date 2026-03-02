@@ -122,7 +122,6 @@ Strapi is built in the open by a diverse global community. There are many ways t
 - **[Discord](https://discord.strapi.io)** — Chat with the community and core team
 - **[Forum](https://github.com/strapi/strapi/discussions)** — Ask questions, share projects, get feedback
 - **[Community Content](https://github.com/strapi/community-content)** — Showcase, tutorials, starters, and templates
-- **[Awesome Strapi](https://github.com/strapi/awesome-strapi)** — Curated list of community resources
 - **[Contributing Guide](https://contributor.strapi.io/)** — How to contribute code, docs, and translations
 
 New to open source? Check out [How to Contribute to Open Source](https://opensource.guide/).
