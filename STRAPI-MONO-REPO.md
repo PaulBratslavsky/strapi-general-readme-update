@@ -41,6 +41,16 @@ Strapi is an open-source, self-hosted headless CMS that lets developers build co
 
 > **Strapi AI** — Automate content modeling, media alt text, and translations with Strapi's built-in AI layer. [Learn more](https://strapi.io/ai)
 
+### How Strapi handles requests
+
+Every incoming request flows through a layered backend architecture: **Routes → Middlewares → Controllers → Services**.
+
+<p align="center">
+  <img src="https://docs.strapi.io/img/assets/backend-customization/diagram-routes.png" alt="Strapi backend request flow: Routes, Middlewares, Controllers, and Services" />
+</p>
+
+> Learn more about backend customization in the [official docs](https://docs.strapi.io/cms/backend-customization).
+
 ## Getting Started
 
 <a href="https://docs.strapi.io/developer-docs/latest/getting-started/quick-start.html" target="_blank">Read the Getting Started tutorial</a> or follow the steps below:
